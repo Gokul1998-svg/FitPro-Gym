@@ -111,7 +111,7 @@ If you have any questions or feedback, feel free to create an issue or reach out
 
 ## Contact Me
 
-📄 **[""](#)**  
+📄 **["https://github.com/Gokul1998-svg/FitPro-Gym/blob/main/Gokulan_Resume.pdf"](#)**  
 📧 **[Email](mailto:gokuljonline98@gmail.com)**  
 📞 **Phone**: 7094980946  
 
