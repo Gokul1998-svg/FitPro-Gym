@@ -111,8 +111,8 @@ If you have any questions or feedback, feel free to create an issue or reach out
 
 ## Contact Me
 
-📄 **["https://drive.google.com/file/d/1nhANS4bzU3v0IEjbcidpyPjHClZJ7Jtn/view?usp=sharing"](#)**  
-📧 **[Email](mailto:gokuljonline98@email.com)**  
+📄 **[""](#)**  
+📧 **[Email](mailto:gokuljonline98@gmail.com)**  
 📞 **Phone**: 7094980946  
 
 --
