@@ -3,7 +3,7 @@
 
 # FitPro Gym SQL Project
 
-![Project Image Placeholder](https://docs.google.com/spreadsheets/d/1SXSlJKzdHC9O97lZtSjp6xpcDei4mE98/edit?usp=sharing&ouid=112559245293155233991&rtpof=true&sd=true) 
+![Project Image Placeholder](Fitpro_logo.png) 
 
 Welcome to my first SQL project, where I analyze real-time gym data from **FitPro Gym**! This project uses a dataset of **10,000 visit records** to explore and analyze gym membership and visit data, answering key business questions that can help a fitness center understand its customer base better and optimize its services.
 
